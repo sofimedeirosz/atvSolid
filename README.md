@@ -25,17 +25,4 @@ Os pagamentos e as notificações são apenas mensagens no console. Cada pagamen
 - `Operacoes.java`: interfaces e serviços de relatórios e entregas.
 - `Notificacoes.java`: canais de notificação e sistema desacoplado.
 
-As classes estão no mesmo pacote padrão e são compiladas juntas. Somente `Main` é pública; por isso, os arquivos podem agrupar classes relacionadas.
-
-## Entrega
-
-Envie os seis arquivos `.java` e este `README.md` para o repositório no GitHub. Os arquivos `.class` e `pedido_1.txt` são gerados durante a execução e não precisam ser enviados. Depois, entregue o link do repositório no Classroom.
-
-## Referências
-
-- Robert C. Martin. [The Single Responsibility Principle](https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html), 2014.
-- Robert C. Martin. [The Open Closed Principle](https://blog.cleancoder.com/uncle-bob/2014/05/12/TheOpenClosedPrinciple.html), 2014.
-- Robert C. Martin. [Solid Relevance](https://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html), 2020.
-- Barbara Liskov e Jeannette Wing. [A Behavioral Notion of Subtyping](https://www.cs.cmu.edu/~wing/publications/LiskovWing94.pdf), 1994.
-
-Os exemplos de código foram elaborados para esta atividade com base nesses princípios.
+Por Sofia Medeiros da Fonseca e Maria Eduarda de Souza Silveira.

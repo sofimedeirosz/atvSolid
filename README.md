@@ -2,24 +2,6 @@
 
 Exemplo simples de um sistema de delivery que aplica os cinco princípios SOLID.
 
-## Como executar
-
-É necessário ter o **JDK 11 ou superior** instalado. Coloque todos os arquivos `.java` na mesma pasta e abra o terminal nela.
-
-Compile:
-
-```bash
-javac -encoding UTF-8 *.java
-```
-
-Execute:
-
-```bash
-java Main
-```
-
-Não é necessário usar Maven, Spring ou instalar bibliotecas.
-
 ## O que o programa faz
 
 O programa cria um pedido com pizza, hambúrguer e bebida, exibe o total de R$ 73,00 e salva as informações em `pedido_1.txt`. Depois, demonstra três formas de pagamento, gera um relatório simples, marca o pedido como entregue e simula notificações por Email, SMS e WhatsApp.
